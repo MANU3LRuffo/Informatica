@@ -32,7 +32,7 @@ public class Avanti extends Application {
 		GridPane griglia = new GridPane();
 
 		griglia.add(bPartire, 2, 0);
-		griglia.add(quadro, 0, 1, 3, 1);
+		griglia.add(quadro, 0, 1, 3, 1); //griglia
 
 
 		Scene scena = new Scene(griglia, 300, 200);
@@ -49,7 +49,7 @@ public class Avanti extends Application {
 		palla.setCenterY(10);
 	}
 
-	private void via() {
+	private void via() { //avvia
 		timeline.play();
 	}
 
