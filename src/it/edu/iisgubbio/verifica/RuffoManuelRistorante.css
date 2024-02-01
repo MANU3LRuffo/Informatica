@@ -1,0 +1,9 @@
+.text-field{
+	-fx-background-color: yellow;
+}
+.background{
+	-fx-background-color: red;
+}
+.label{
+	-fx-background-color: white;
+}

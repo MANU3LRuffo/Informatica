@@ -1,0 +1,10 @@
+.text-field {
+	-fx-background-color: red;
+}
+.perimetro {
+	-fx-text-fill: blue;
+}
+.griglia {
+	-fx-hgap:10;
+	-fx-vgap:10;
+}
